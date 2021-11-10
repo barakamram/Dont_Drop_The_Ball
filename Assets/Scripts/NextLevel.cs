@@ -10,6 +10,5 @@ public class NextLevel : MonoBehaviour
     {
         if (collision.collider.name == "Player")
             SceneManager.LoadScene(scene);
-        // Input can either be a serial number or a name; here we use name. 
     }
 }       
