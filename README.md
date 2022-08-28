@@ -8,7 +8,6 @@ A movement ball game.
 * jumps with space, he can jump only when he is on the ground.
 * can restart the phase/scene with left-shift. ---> [RestartLevelWithKey.cs](https://github.com/barakamram/Ex4_2---Dont_Drop_The_Ball/blob/main/Assets/Scripts/RestartLevelWithKey.cs)
 
-
 ## game
 * the camera follows after the player. ---> [CopyPlayerPosition.cs](https://github.com/barakamram/Ex4_2---Dont_Drop_The_Ball/blob/main/Assets/Scripts/CopyPlayerPosition.cs)
 * player cannot move on the lava.
